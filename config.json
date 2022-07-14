@@ -1,0 +1,7 @@
+{
+  "port": 8890,
+  "isAuth": false,
+  "userName": "user1",
+  "userPwd": "pwd",
+  "statusWebPort": 8075
+}
